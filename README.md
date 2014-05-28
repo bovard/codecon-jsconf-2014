@@ -20,3 +20,4 @@ node colors.js colors.txt
 
 I came in 7th and won a [Tessel](tessel.io)!
 
+Also: reading from process.stdin is a #*$(&$. 
